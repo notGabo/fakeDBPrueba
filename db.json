@@ -1,18 +1,59 @@
-{   
-  "posts": [
-    {
+{
+    "user": [
+      {
+        "id": 1,
+        "user": "Jean"
+      },
+      {
+        "id": 2,
+        "user": "Alfredo"
+      },
+      {
+        "id": 3,
+        "user": "Fabian"
+      },
+      {
+        "id": 4,
+        "user": "Gabriel"
+      }
+    ],
+    "contrasenas": [
+      {
+        "id": 1,
+        "contrasena": "1234",
+        "postId": 1
+      },
+      {
+        "id": 2,
+        "contrasena": "1234",
+        "postId": 1
+      },
+      {
+        "id": 3,
+        "contrasena": "1234",
+        "postId": 1
+      },
+      {
+        "id": 4,
+        "contrasena": "1234",
+        "postId": 1
+      }
+    ],
+    "profile": [{
       "id": 1,
-      "title": "hello"
+      "nick": "Kohaku"
     },
     {
         "id": 2,
-        "title": "hello"
-      }
-  ],
-  "profile": {
-    "name": "typicode"
+        "nick": "Langley"
+    },
+    {
+        "id": 3,
+        "nick": "Shen Shan Fanboy"
+    },
+    {
+        "id": 4,
+        "nick": "Camelia"
+    }
+    ]
   }
-}
-    
-
-
