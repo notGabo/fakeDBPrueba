@@ -1,23 +1,18 @@
-{
-  "userJean": 
+{   
+  "posts": [
     {
-      "key": "contrasena",
-      "username": "Jean"
+      "id": 1,
+      "title": "hello"
     },
-    "userAlfredo":
     {
-        "key": "contrasena",
-        "username" : "Alfredo"
-    },
-    "userFabian":
-    {
-        "key": "contrasena",
-        "username" : "Fabian"
-    },
-    "userGabriel":
-    {
-        "key": "contrasena",
-        "username" : "Gabriel"
-    }
+        "id": 2,
+        "title": "hello"
+      }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
+    
+
 
