@@ -2,19 +2,19 @@
     "user": [
       {
         "id": 1,
-        "user": "Jean"
+        "email": "jean@email.com"
       },
       {
         "id": 2,
-        "user": "Alfredo"
+        "email": "alfredo@email.com"
       },
       {
         "id": 3,
-        "user": "Fabian"
+        "email": "fabian@email.com"
       },
       {
         "id": 4,
-        "user": "Gabriel"
+        "email": "gabriel@email.com"
       }
     ],
     "contrasenas": [
